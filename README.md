@@ -24,3 +24,9 @@
 3. git commit -m "Msg"
   _git commit -m "Add pushing new commits to existing repo steps"_
 4. git push origin master
+
+## To clone a repository
+
+1. Copy the link from remote repo
+2. git clone { repo link }
+ _git clone git@github.com:istc-accelerator-5/class-19.06.git_
