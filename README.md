@@ -15,3 +15,12 @@
 
 *. git status
   Shows the current status
+
+## To push new commits to an existing repo
+
+1. Change files
+2. git add { filename }
+  _git add README.md_
+3. git commit -m "Msg"
+  _git commit -m "Add pushing new commits to existing repo steps"_
+4. git push origin master
