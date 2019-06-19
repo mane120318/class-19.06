@@ -42,3 +42,7 @@
 2. git clone { repo link }
 
  `git clone git@github.com:istc-accelerator-5/class-19.06.git`
+ 
+ ## To get commits from a repository
+
+1. `git pull origin master`
